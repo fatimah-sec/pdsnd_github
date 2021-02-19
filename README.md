@@ -12,8 +12,12 @@ The code import the data and answer interesting questions about it by computing 
 The script takes raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-Include the files used
+ this project I used three city dataset files:
+
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+one of the best blog to learn python https://realpython.com/
 
