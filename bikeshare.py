@@ -10,7 +10,8 @@ days_list=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    
+    This function asks user to specify a city, month, and day to analyze.
 
     Returns:
         (str) city - name of the city to analyze
